@@ -5,15 +5,14 @@
 ## 기술 스택
 
 ### Infrastructure
-- OS: Ubuntu Server 24.04
-- Container: Docker 29.x
-- Orchestration: Docker Compose 5.x
+- OS: Ubuntu Server 24.04.4
+- Container: Docker 29.3.1
+- Orchestration: Docker Compose 5.1.1
 
 ### Backend
-- Language: Python 3.11
+- Language: Python 3.10.12
 - Browser Automation: Playwright 1.58.0
 - HTTP Client: Requests
-- HTML Parser: BeautifulSoup4
 - Env 관리: python-dotenv
 
 ### Notification
